@@ -4,7 +4,7 @@ function App() {
 
   return (
       <>
-      <h1>Hero</h1>
+      <h1>CarrerPilot</h1>
       
       </>
   )
